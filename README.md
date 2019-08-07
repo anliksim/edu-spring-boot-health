@@ -1,6 +1,6 @@
-# Spring Boot Web
+# Spring Boot Health
 
-Education series - spring boot web.
+Education series - spring boot app with actuator health endpoint.
 
 
 ## Usage
